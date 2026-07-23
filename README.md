@@ -1,7 +1,5 @@
 # About Me
 
-About Me
-
 I am an Applications & Systems Engineer with a strong background in IT infrastructure, cloud technologies, networking, and business-critical applications. I enjoy designing, implementing, and supporting reliable technology solutions that improve operational efficiency and deliver real business value.
 
 My experience spans Windows Server, Microsoft Azure, Active Directory/Entra ID, virtualization, networking, and IT security. I have worked with cloud and on-premises environments, managed enterprise applications, automated administrative tasks with PowerShell, and supported large-scale deployments across hundreds of customer sites.
