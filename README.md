@@ -1,4 +1,4 @@
-# About Me
+About Me
 
 I am an Applications & Systems Engineer with a strong background in IT infrastructure, cloud technologies, networking, and business-critical applications. I enjoy designing, implementing, and supporting reliable technology solutions that improve operational efficiency and deliver real business value.
 
@@ -25,3 +25,15 @@ Linux Administration
 IT Infrastructure Design
 Technical Support & Systems Integration
 Project Implementation & Documentation
+Current Learning
+
+I am continuously expanding my expertise in cloud and infrastructure technologies, with a focus on:
+
+Azure Solutions Architecture
+Azure Security
+Infrastructure as Code (Terraform)
+Automation and DevOps practices
+Cloud networking and hybrid infrastructure
+Enterprise security and identity management
+
+My goal is to continue building scalable, secure, and efficient technology solutions while growing as a Cloud Infrastructure and Solutions Engineer.
